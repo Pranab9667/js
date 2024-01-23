@@ -56,4 +56,9 @@ const{courceteacher:teacher}=cource;
 console.log(teacher);
 
 
-//how api fetched in the react js;
+// How api works;
+//JSON concepts in javascript ,Basically it is a Object but it doesn't have any name;
+{
+    "name":"pranab"
+    "emailId":"pranab123@google.com"
+}
