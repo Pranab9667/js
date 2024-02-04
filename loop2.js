@@ -64,3 +64,5 @@ myNums.forEach((num)=>{
 console.log(newNums);
 
 
+
+
