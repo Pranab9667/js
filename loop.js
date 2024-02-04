@@ -79,5 +79,17 @@ map.set('FI',"France")
 console.log(map);
 
 for (const [key,value] of map) {
+    //console.log(key); // print all the key in the form of the array 
     console.log(key,':-',value);
 }
+
+
+const myObject={
+    'game1':'NFS',
+    'game2':'Spiderman'
+}
+//for (const [key,value]  of myObject) {
+ //   console.log(key,':-',value);
+//}
+
+// object can not be iterated by loop
